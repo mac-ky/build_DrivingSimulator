@@ -114,3 +114,6 @@ C#スクリプトを用いたオブジェクトの制御については以下の
     6. [信号現示の制御](./MarkDown_Materials/3_5.md)
 4. 結果の取得
     1. [車両の移動軌跡の取得](./MarkDown_Materials/4_1.md)
+5. 応用
+    1. [沿道路外施設への右折入庫](./MarkDown_Materials/5_1.md)
+    2. [歩行者](./MarkDown_Materials/5_2.md)
