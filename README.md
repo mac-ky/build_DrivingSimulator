@@ -8,7 +8,7 @@
   <strong>📄 Citation</strong><br>
   こちらの記事を参考にされた際には，以下の文献を引用してください．<br>
   <em>植田真生史・中西航, 2025.</em><br>
-  <a href="">https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/1419</a>
+  <a href="https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/1419">https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/1419</a>
 </blockquote>
 
 ## はじめに
