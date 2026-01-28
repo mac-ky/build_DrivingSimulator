@@ -7,7 +7,7 @@
 <blockquote style="border-left: 5px solid #4caf50; padding-left: 10px; background-color: #f9f9f9;">
   <strong>📄 Citation</strong><br>
   こちらの記事を参考にされた際には，以下の文献を引用してください．<br>
-  <em>植田真生史・中西航, 2025.</em><br>
+  <em>植田真生史・中西航：簡易なドライビングシミュレータの提案，交通工学論文集，Vol.12，2026，accepted．</em><br>
   <a href="https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/1419">https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/1419</a>
 </blockquote>
 
